@@ -36,10 +36,11 @@ The use of this code against any system, network, or device **without explicit, 
 
 You can find the detailed step-by-step tutorial, titled **"Python İle Kendi Virüsümü Yazdım | Eğitim Amaçlı"** (I Wrote My Own Virus With Python | For Educational Purposes) by the **Furares** channel, below.
 
-<p align="center">
-  
-  [![Watch the video](https://img.youtube.com/vi/wj76ClEge_s/0.jpg)](https://www.youtube.com/watch?v=wj76ClEge_s)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=wj76ClEge_s">
+    <img src="https://img.youtube.com/vi/wj76ClEge_s/0.jpg" alt="Video Thumbnail">
+  </a>
+</div>
 
-</p>
 
 

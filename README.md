@@ -22,7 +22,7 @@ Video anlatımında, bir reverse shell yapısının nasıl çalıştığını, s
 
 Aşağıdaki görsele tıklayarak videoya ulaşabilirsiniz:
 
-[![YouTube Video](https://img.youtube.com/vi/wj76ClEge_s&t=44s/maxresdefault.jpg)](https://www.youtube.com/watch?v=wj76ClEge_s&t=44s)
+[YouTube Video](https://img.youtube.com/vi/wj76ClEge_s/maxresdefault.jpg)](https://www.youtube.com/watch?v=wj76ClEge_s)
 
 
 Projeyi beğendiysen:

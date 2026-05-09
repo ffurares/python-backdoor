@@ -26,7 +26,7 @@ Aşağıdaki görsele tıklayarak videoya ulaşabilirsiniz:
 
 Projeyi beğendiysen:
 
-- 🌟 Reponu yıldızlayabilir
+- 🌟 Repomu yıldızlayabilir
 - 💬 Yorum bırakabilir
 - 🔔 YouTube kanalıma abone olabilirsin!
 
